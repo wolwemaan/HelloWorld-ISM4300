@@ -14,7 +14,7 @@ namespace HelloWorld_ISM4300
             // Notify the user that he/she need to press any key to continue.
             Console.WriteLine("Press any key to continue..");
 
-            // Print the text 'Hello World!'
+            // Print the "Hello World!" message            
             Console.WriteLine("Hello World!");
 
             // Wait for a key pressed by the user by sending true for intercept argument of ReadKey function.
